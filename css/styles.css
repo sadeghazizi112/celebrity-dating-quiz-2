@@ -1,0 +1,11 @@
+.btn {
+  display: block;
+}
+
+#quote {
+  display: none;
+}
+
+#ryanreynolds, #dwainetherockjohnson, #jackblack {
+  display: none;
+}
